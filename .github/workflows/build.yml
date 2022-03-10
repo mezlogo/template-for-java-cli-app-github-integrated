@@ -20,8 +20,9 @@ jobs:
         arguments: clean test build sonarqube --info --stacktrace
     - name: Release
       uses: softprops/action-gh-release@v1
-      if: startsWith(github.ref, 'refs/tags/')
+      # if: startsWith(github.ref, 'refs/tags/')
       with:
         files: |
-          api/api/build/libs/*.jar
+          api/api/build/libs/api.jar
           cli/api/build/libs/*.jar
+          build/sonar/report-task.txt
