@@ -1,6 +1,6 @@
 # template-for-java-cli-app-github-integrated
 
-![CI](https://github.com/mezlogo/learn-github-actions/actions/workflows/build.yml/badge.svg)
+![CI](https://github.com/mezlogo/template-for-java-cli-app-github-integrated/actions/workflows/build.yml/badge.svg)
 
 Zones:
 1. local development with gradle, junit5, picocli and jacoco
