@@ -19,3 +19,5 @@ Setting up:
   - gradle builds application
   - github releases an artifact
   - aur composes new aur package for archlinux with bash and zsh completion
+
+FROM ISSUE 1
