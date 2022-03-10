@@ -1,6 +1,6 @@
-package mezlogo.sample_ci.cli;
+package mezlogo.template_cli.cli;
 
-import mezlogo.sample_ci.api.GreetService;
+import mezlogo.template_cli.api.GreetService;
 
 public class Main {
     public static void main(String[] args) {
