@@ -23,6 +23,4 @@ jobs:
       if: startsWith(github.ref, 'refs/tags/')
       with:
         files: |
-          api/build/libs/api.jar
-          cli/build/libs/*.jar
-          build/sonar/report-task.txt
+          cli/build/distributions/mycliapp.zip
