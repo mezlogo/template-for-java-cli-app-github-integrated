@@ -1,4 +1,4 @@
-package mezlogo.sample_ci.cli;
+package mezlogo.template_cli.cli;
 
 import org.junit.jupiter.api.Test;
 
