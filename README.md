@@ -1,6 +1,9 @@
 # template-for-java-cli-app-github-integrated
 
 ![CI](https://github.com/mezlogo/template-for-java-cli-app-github-integrated/actions/workflows/build.yml/badge.svg)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mezlogo_template-for-java-cli-app-github-integrated&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=mezlogo_template-for-java-cli-app-github-integrated)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=mezlogo_template-for-java-cli-app-github-integrated&metric=coverage)](https://sonarcloud.io/summary/new_code?id=mezlogo_template-for-java-cli-app-github-integrated)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=mezlogo_template-for-java-cli-app-github-integrated&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=mezlogo_template-for-java-cli-app-github-integrated)
 
 TOC:
 - what is included
